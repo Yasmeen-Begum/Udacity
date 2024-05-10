@@ -38,11 +38,11 @@ I would try to figure out more ways to improve on the features as they seem to b
 ![model_train_score](https://github.com/Yasmeen-Begum/Udacity/assets/91931504/3082b940-177a-41ac-bbe0-cc6814e629f8)
 
 
+![model_train_score](https://github.com/Yasmeen-Begum/Udacity/assets/91931504/680dc393-3f16-4621-8563-d20e27ad85a3)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
-
-![model_test_score](https://github.com/Yasmeen-Begum/Udacity/assets/91931504/c7d78c3c-d056-48a0-9e9f-caddbb40217a)
+![model_test_score](https://github.com/Yasmeen-Begum/Udacity/assets/91931504/bf2ca0de-f141-4503-8cbd-bdb7d5ae6f62)
 
 ## Summary
 The most benefit is received by working with the features and you can gain great insights from the EDA. Working forward my goal would be to improve the model by taking into consideration the working hours which impact the bike demand and the seasonal spikes and lows.
