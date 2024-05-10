@@ -24,15 +24,13 @@ I would try to figure out more ways to improve on the features as they seem to b
 
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
 |model|hpo1|hpo2|hpo3|score|
+
 |initial|default |default |default |1.80586|
+
 |add_features|GBM|NN|XGB|0.69123|
+
 |hpo|NN|FASTAI|GBM|0.59507|
-"model": ["initial", "add_features", "hpo"],
-    "hpo1": ["default", "GBM", "NN"],
-    "hpo2": ["default", "NN", "FASTAI"],
-    "hpo3": ["default", "XGB", "GBM"],
-    "score": [ 1.80586,  0.69123       ,  0.59507]
-    })
+
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
 ![model_train_score](https://github.com/Yasmeen-Begum/Udacity/assets/91931504/680dc393-3f16-4621-8563-d20e27ad85a3)
