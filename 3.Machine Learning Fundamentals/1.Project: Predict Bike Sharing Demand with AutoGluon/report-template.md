@@ -23,13 +23,11 @@ The best improvement was because of the split of the datetime field into  month,
 I would try to figure out more ways to improve on the features as they seem to be the ones that lead to improvement of the score. Maybe some one-hot encoding or adjusting for the seasons or working hours will provide us with a better result.
 
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
-|model|hpo1|hpo2|hpo3|score|
-
-|initial|default |default |default |1.80586|
-
-|add_features|GBM|NN|XGB|0.69123|
-
-|hpo|NN|FASTAI|GBM|0.59507|
+|model|timelimit (seconds)|presets|others|score|
+|--|--|--|--|--|
+|initial|10x60|best_quality|-|1.81618|
+|add_features|10x60|best_quality|-|0.47450|
+|hpo|12x60|best_quality|nn:activation -- dropout_prob; gmb:num_boost_round -- num_leaves; scheduler; searcher|1.31230|
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
