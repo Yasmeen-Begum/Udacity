@@ -26,15 +26,14 @@ I would try to figure out more ways to improve on the features as they seem to b
 |model|timelimit (seconds)|presets|others|score|
 |--|--|--|--|--|
 |initial|10x60|best_quality|-|1.79833|
-|add_features|10x60|best_quality|-0.70291|
+|add_features|10x60|best_quality|-|0.70291|
 |hpo|12x60|best_quality|nn:activation -- dropout_prob; gmb:num_boost_round -- num_leaves; scheduler; searcher|1.33318|
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
-![model_train_score](https://github.com/Yasmeen-Begum/Udacity/assets/91931504/680dc393-3f16-4621-8563-d20e27ad85a3)
+![model_train_score](https://github.com/Yasmeen-Begum/Udacity/assets/91931504/146dee1f-fe91-40e5-86bc-3de15768e680)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
-
-![model_test_score](https://github.com/Yasmeen-Begum/Udacity/assets/91931504/bf2ca0de-f141-4503-8cbd-bdb7d5ae6f62)
+![model_test_score](https://github.com/Yasmeen-Begum/Udacity/assets/91931504/ce1eef4a-e61c-456d-9e94-234d33fbc2e2)
 
 ## Summary
 The most benefit is received by working with the features and you can gain great insights from the EDA.  My goal would be to improve the model by taking into consideration the working hours which impact the bike demand and the seasonal spikes.I have got score of  1.33318  
