@@ -25,9 +25,9 @@ I would try to figure out more ways to improve on the features as they seem to b
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
 |model|timelimit (seconds)|presets|others|score|
 |--|--|--|--|--|
-|initial|10x60|best_quality|-|1.79833|
-|add_features|10x60|best_quality|-|0.70291|
-|hpo|12x60|best_quality|nn:activation -- dropout_prob; gmb:num_boost_round -- num_leaves; scheduler; searcher|1.33318|
+|initial|600|best_quality|-|1.79833|
+|add_features|600|best_quality|-|0.70291|
+|hpo|720|best_quality|nn:activation -- dropout_prob; gmb:num_boost_round -- num_leaves; scheduler; searcher|1.33318|
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
 ![model_train_score](https://github.com/Yasmeen-Begum/Udacity/assets/91931504/146dee1f-fe91-40e5-86bc-3de15768e680)
