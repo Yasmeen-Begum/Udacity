@@ -1,10 +1,14 @@
 --sanity-check
 
-![Screenshot (285)](https://github.com/Yasmeen-Begum/Create-Your-Own-Image-Classifier/assets/91931504/f8ba3e3f-4d7b-4709-b748-1a4ee4952e5b)
+
+![Screenshot (285)](https://github.com/Yasmeen-Begum/Udacity/assets/91931504/cc7811f3-91be-4338-bee1-bfd9ad205108)
+
 
 --predicting the image
 
-![Screenshot (284)](https://github.com/Yasmeen-Begum/Create-Your-Own-Image-Classifier/assets/91931504/4f0a46ac-39b2-4c6d-9efc-5f6e4784d84a)
+![Screenshot (286)](https://github.com/Yasmeen-Begum/Udacity/assets/91931504/60d6ca30-2f84-4704-9d36-cd68a4aa5d38)
+
+![Screenshot (287)](https://github.com/Yasmeen-Begum/Udacity/assets/91931504/0f4dfc19-8cb6-40f9-a1d7-6c773f4ff110)
 
 
 --for train.py
