@@ -1,1 +1,2 @@
-![stepfunctions_graph](https://github.com/user-attachments/assets/6ea54bb0-fbbe-4244-808c-b5a0f8569036)
+
+![stepfunction_graph png](https://github.com/user-attachments/assets/86f74caa-c6b3-4ab2-a5a9-3bb3cf8f8b55)
